@@ -7,13 +7,13 @@ This technical endeavor explores the intricacies of game mechanics, rendering, a
 
 As you delve into the intricacies of the Jump Game project, you will encounter a comprehensive codebase that reflects an amalgamation of disciplined coding standards and the pragmatic use of Qt Creator tools. The project not only serves as an application of fundamental programming principles but also offers insights into the systematic construction of a gaming environment within the C++ programming paradigm.
 
-Playing the game:
+# Playing the game:
 ![image](https://github.com/rodrigoguedes09/Jump-Game/assets/61996985/3ce1c1b9-aaf6-44f5-942b-bf50612eb34f)
 
-Paused Game (Press P)
+# Paused Game (Press P)
 ![image](https://github.com/rodrigoguedes09/Jump-Game/assets/61996985/f6723e9c-f5a4-4735-8fef-048c9d1057ff)
 
-Game Over Screen
+# Game Over Screen
 ![image](https://github.com/rodrigoguedes09/Jump-Game/assets/61996985/d893b524-3e44-4977-8e61-37ad457e4a68)
 
 
